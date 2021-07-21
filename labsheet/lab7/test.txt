@@ -1,0 +1,4 @@
+John 50.5
+Jos 80.6
+Mary 40.2
+George 60.4
